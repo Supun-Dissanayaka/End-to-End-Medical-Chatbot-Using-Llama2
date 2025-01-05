@@ -1,5 +1,7 @@
 # End-to-End-Medical-Chatbot
 
+![End-to-End Medical Chatbot](https://github.com/Supun-Dissanayaka/End-to-End-Medical-Chatbot-Using-Llama2/blob/main/Output/Chatbot.png?raw=true)
+
 ## Steps to run the project
 
 ```bash
